@@ -3,6 +3,7 @@ const app = express();
 const cors = require('cors')
 const allChef = require('./chefData.json')
 const allRecipe = require('./recipes.json')
+const allTrics = require('./trics.json')
 const port = process.env.PORT || 6005;
 app.use(cors())
 
@@ -17,6 +18,9 @@ app.get('/allChef',(req,res)=>{
 app.get('/allRecipe',(req,res)=>{
     res.send(allRecipe)
 })
+app.get('/allTrics',(req,res)=>{
+    res.send(allTrics)
+})
 
 app.get('/recipe/:id',(req,res)=>{
     const name = req.params.id
@@ -26,6 +30,11 @@ app.get('/recipe/:id',(req,res)=>{
 app.get('/chef/:id',(req,res)=>{
     const id = req.params.id
     const findData = allChef.find(chef => chef.id == id)
+    res.send(findData)
+})
+app.get('/trics/:id',(req,res)=>{
+    const id = req.params.id
+    const findData = allTrics.find(chef => chef.id == id)
     res.send(findData)
 })
 

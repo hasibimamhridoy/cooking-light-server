@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "title": "How to cook perfect rice every time",
+      "shortBio": "Learn how to make fluffy rice that's not sticky or mushy with these simple tips.",
+      "img": "https://images.unsplash.com/photo-1562003385-5b24e202c2f2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmljZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "details": [
+        "Rinse the rice several times to remove excess starch.",
+        "Use the right amount of water, usually a 1:2 ratio of rice to water.",
+        "Let the rice rest for a few minutes after cooking to allow the moisture to distribute evenly.",
+        "Fluff the rice with a fork to separate the grains.",
+        "Avoid stirring the rice too much during cooking to prevent it from becoming mushy.",
+        "Consider using a rice cooker for consistently perfect rice every time."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "How to make a roux for gravy and sauces",
+      "shortBio": "A well-made roux is the foundation of many classic sauces and gravies. Here's how to do it.",
+      "img": "https://images.unsplash.com/photo-1569180420155-fdefa3d0d5f8?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cm91eCUyMGdyYXZ5JTIwYW5kJTIwc2F1Y2VzfHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "details": [
+        "Melt butter or oil in a heavy-bottomed saucepan over medium heat.",
+        "Add an equal amount of flour and whisk to combine.",
+        "Cook the roux, whisking constantly, until it turns a light golden color.",
+        "Use a light-colored roux for thinner sauces and a darker roux for thicker gravies.",
+        "Be careful not to burn the roux, as it will impart a bitter taste to the finished sauce or gravy."
+      ]
+    },{
+        "id": 3,
+        "title": "How to Make Perfect Rice Every Time",
+        "shortBio": "Learn the simple trick to making perfect rice every time.",
+        "imgUrl": "https://images.unsplash.com/photo-1546069907-cc14d434c760",
+        "details": [
+            "Rinse the rice several times to remove excess starch.",
+            "Use the right amount of water, usually a 1:2 ratio of rice to water.",
+            "Let the rice rest for a few minutes after cooking to allow the moisture to distribute evenly.",
+            "Fluff the rice with a fork to separate the grains.",
+            "Avoid stirring the rice too much during cooking to prevent it from becoming mushy.",
+            "Consider using a rice cooker for consistently perfect rice every time."
+          ]
+      },
+      {
+        "id": 4,
+        "title": "How to Keep Your Cutting Board from Slipping",
+        "shortBio": "Find out how to keep your cutting board in place while you chop.",
+        "imgUrl": "https://images.unsplash.com/photo-1578905808282-3989cbedc8d3",
+        "details": [
+            "Melt butter or oil in a heavy-bottomed saucepan over medium heat.",
+            "Add an equal amount of flour and whisk to combine.",
+            "Cook the roux, whisking constantly, until it turns a light golden color.",
+            "Use a light-colored roux for thinner sauces and a darker roux for thicker gravies.",
+            "Be careful not to burn the roux, as it will impart a bitter taste to the finished sauce or gravy."
+          ]
+      },
+      {
+        "id": 5,
+        "title": "How to Chop an Onion Without Tears",
+        "shortBio": "Learn the secret to chopping onions without crying.",
+        "imgUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba",
+        "details": [
+            "Rinse the rice several times to remove excess starch.",
+            "Use the right amount of water, usually a 1:2 ratio of rice to water.",
+            "Let the rice rest for a few minutes after cooking to allow the moisture to distribute evenly.",
+            "Fluff the rice with a fork to separate the grains.",
+            "Avoid stirring the rice too much during cooking to prevent it from becoming mushy.",
+            "Consider using a rice cooker for consistently perfect rice every time."
+          ]
+      },
+      {
+        "id": 6,
+        "title": "How to Cook Perfect Bacon",
+        "shortBio": "Discover the secret to cooking perfectly crispy bacon.",
+        "imgUrl": "https://images.unsplash.com/photo-1611068393243-d20a50a1de52",
+        "details": [
+            "Melt butter or oil in a heavy-bottomed saucepan over medium heat.",
+            "Add an equal amount of flour and whisk to combine.",
+            "Cook the roux, whisking constantly, until it turns a light golden color.",
+            "Use a light-colored roux for thinner sauces and a darker roux for thicker gravies.",
+            "Be careful not to burn the roux, as it will impart a bitter taste to the finished sauce or gravy."
+          ]
+      }
+
+]
