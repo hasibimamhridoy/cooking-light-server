@@ -1,7 +1,9 @@
 const express = require('express');
 const app = express();
+const cors = require('cors')
 const allChef = require('./chefData.json')
 const port = process.env.PORT || 6005;
+app.use(cors())
 
 
 
