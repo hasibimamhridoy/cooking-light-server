@@ -1,0 +1,366 @@
+[
+  {
+    "id": 1,
+    "chef_picture": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+    "chef_name": "Maria Rodriguez",
+    "bio": "I am a seasoned culinary expert with over 20 years of experience in the kitchen. From classic comfort food to gourmet creations, I can whip up any dish to satisfy your taste buds.",
+    "banner_img": "https://images.unsplash.com/photo-1507048331197-7d4ac70811cf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "years_of_experience": 15,
+    "number_of_recipes": 30,
+    "likes": 8000,
+    "recipes": [
+      {
+        "recipe_name": "Spaghetti Carbonara",
+        "ingredients": [
+          "1 lb spaghetti",
+          "6 oz pancetta, diced",
+          "4 eggs",
+          "1/2 cup grated Parmesan cheese",
+          "1/2 cup grated Pecorino Romano cheese",
+          "1 tbsp olive oil",
+          "1 tsp black pepper",
+          "1/4 cup chopped fresh parsley"
+        ],
+        "cooking_method": "1. Cook spaghetti according to package instructions. Reserve 1 cup of pasta water.\n2. In a large skillet, heat olive oil over medium heat. Add pancetta and cook until crispy, about 5-7 minutes.\n3. In a bowl, whisk together eggs, Parmesan cheese, Pecorino Romano cheese, and black pepper.\n4. Drain spaghetti and add it to the skillet with the pancetta. Remove skillet from heat.\n5. Slowly pour the egg mixture over the spaghetti while stirring constantly. Add reserved pasta water, a tablespoon at a time, until the sauce is creamy and coats the pasta.\n6. Serve spaghetti carbonara with chopped fresh parsley.",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Beef Stroganoff",
+        "ingredients": [
+          "1 lb beef sirloin, thinly sliced",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "8 oz mushrooms, sliced",
+          "1 cup beef broth",
+          "1 cup sour cream",
+          "2 tbsp flour",
+          "2 tbsp butter",
+          "1 tbsp olive oil",
+          "1 tsp salt",
+          "1/2 tsp black pepper",
+          "12 oz egg noodles"
+        ],
+        "cooking_method": "1. Cook egg noodles according to package instructions. Drain and set aside.\n2. In a large skillet, heat olive oil over medium-high heat. Add beef sirloin and cook until browned on all sides. Remove beef from skillet and set aside.\n3. Add butter to the skillet and melt over medium heat. Add onion and garlic and cook until softened, about 5 minutes.\n4. Add sliced mushrooms to the skillet and cook until tender, about 5-7 minutes.\n5. Sprinkle flour over the vegetables and stir to combine. Gradually stir in beef broth and bring to a simmer. Add cooked beef to the skillet and stir to combine.\n6. Simmer for 10-15 minutes, or until the sauce has thickened. Remove from heat and stir in sour cream.\n7. Serve beef stroganoff over egg noodles.",
+        "rating": 4.4
+      },
+      {
+        "recipe_name": "Lemon Herb Roasted Chicken",
+        "ingredients": [
+          "1 whole chicken, about 4 lbs",
+          "1 lemon, sliced",
+          "2 tbsp unsalted butter, softened",
+          "2 tbsp chopped fresh herbs (such as thyme, rosemary, and parsley)",
+          "4 cloves garlic, minced",
+          "2 tsp salt",
+          "1 tsp black pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 425°F (220°C).\n2. In a small bowl, mix together softened butter, chopped herbs, minced garlic, salt, and black pepper.\n3. Rub the butter mixture all over the chicken, including under the skin and in the cavity.\n4. Place lemon slices inside the chicken cavity.\n5. Tie the legs together with kitchen twine and tuck the wings under the bird.\n6. Place the chicken on a roasting pan and roast for 1 hour and 15 minutes, until the internal temperature reaches 165°F (74°C).\n7. Let the chicken rest for 10 minutes before carving and serving.",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chef_picture": "image.png",
+    "chef_name": "Anthonio Giterej",
+    "bio": "As a passionate food enthusiast, I have honed my skills in the culinary arts over the past decade. My focus is on using fresh, locally sourced ingredients to create unique and delicious dishes that will leave you wanting more.",
+    "banner_img": "https://images.unsplash.com/photo-1514986888952-8cd320577b68?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1176&q=80",
+    "years_of_experience": 25,
+    "number_of_recipes": 303,
+    "likes": 12000,
+    "recipes": [
+      {
+        "recipe_name": "Payamba Fsrdsarbo",
+        "ingredients": [
+          "4 lb spaghetti",
+          "6 oz pancetta, diced",
+          "4 eggs",
+          "1/2 cup grated Parmesan cheese",
+          "1/2 cup grated Pecorino Romano cheese",
+          "1 tbsp olive oil",
+          "1 tsp black pepper",
+          "1/4 cup chopped fresh parsley"
+        ],
+        "cooking_method": "1. Cook spaghetti according to package instructions. Reserve 1 cup of pasta water.\n2. In a large skillet, heat olive oil over medium heat. Add pancetta and cook until crispy, about 5-7 minutes.\n3. In a bowl, whisk together eggs, Parmesan cheese, Pecorino Romano cheese, and black pepper.\n4. Drain spaghetti and add it to the skillet with the pancetta. Remove skillet from heat.\n5. Slowly pour the egg mixture over the spaghetti while stirring constantly. Add reserved pasta water, a tablespoon at a time, until the sauce is creamy and coats the pasta.\n6. Serve spaghetti carbonara with chopped fresh parsley.",
+        "rating": 4.3
+      },
+      {
+        "recipe_name": "Muton Curry",
+        "ingredients": [
+          "1 lb beef sirloin, thinly sliced",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "8 oz mushrooms, sliced",
+          "1 cup beef broth",
+          "1 cup sour cream",
+          "2 tbsp flour",
+          "2 tbsp butter",
+          "1 tbsp olive oil",
+          "1 tsp salt",
+          "1/2 tsp black pepper",
+          "12 oz egg noodles"
+        ],
+        "cooking_method": "1. Cook egg noodles according to package instructions. Drain and set aside.\n2. In a large skillet, heat olive oil over medium-high heat. Add beef sirloin and cook until browned on all sides. Remove beef from skillet and set aside.\n3. Add butter to the skillet and melt over medium heat. Add onion and garlic and cook until softened, about 5 minutes.\n4. Add sliced mushrooms to the skillet and cook until tender, about 5-7 minutes.\n5. Sprinkle flour over the vegetables and stir to combine. Gradually stir in beef broth and bring to a simmer. Add cooked beef to the skillet and stir to combine.\n6. Simmer for 10-15 minutes, or until the sauce has thickened. Remove from heat and stir in sour cream.\n7. Serve beef stroganoff over egg noodles.",
+        "rating": 4.4
+      },
+      {
+        "recipe_name": "Omalu Chicken",
+        "ingredients": [
+          "1 whole chicken, about 4 lbs",
+          "1 lemon, sliced",
+          "2 tbsp unsalted butter, softened",
+          "2 tbsp chopped fresh herbs (such as thyme, rosemary, and parsley)",
+          "4 cloves garlic, minced",
+          "2 tsp salt",
+          "1 tsp black pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 425°F (220°C).\n2. In a small bowl, mix together softened butter, chopped herbs, minced garlic, salt, and black pepper.\n3. Rub the butter mixture all over the chicken, including under the skin and in the cavity.\n4. Place lemon slices inside the chicken cavity.\n5. Tie the legs together with kitchen twine and tuck the wings under the bird.\n6. Place the chicken on a roasting pan and roast for 1 hour and 15 minutes, until the internal temperature reaches 165°F (74°C).\n7. Let the chicken rest for 10 minutes before carving and serving.",
+        "rating": 4.4
+      }
+    ]
+  },
+
+  {
+    "id": 3,
+    "chef_picture": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "chef_name": "Faikanuka Omama",
+    "bio": "With a background in both traditional and modern cooking techniques, I am a master of the kitchen. I take pride in crafting dishes that are not only visually stunning, but also incredibly flavorful and satisfying.",
+    "banner_img": "https://images.unsplash.com/reserve/EnF7DhHROS8OMEp2pCkx_Dufer%20food%20overhead%20hig%20res.jpg?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1178&q=80",
+    "years_of_experience": 45,
+    "number_of_recipes": 103,
+    "likes": 2000,
+    "recipes": [
+      {
+        "recipe_name": "Kireoms Faouyta",
+        "ingredients": [
+          "4 lb spaghetti",
+          "6 oz pancetta, diced",
+          "4 eggs",
+          "1/2 cup grated Parmesan cheese",
+          "1/2 cup grated Pecorino Romano cheese",
+          "1 tbsp olive oil",
+          "1 tsp black pepper",
+          "1/4 cup chopped fresh parsley"
+        ],
+        "cooking_method": "1. Cook spaghetti according to package instructions. Reserve 1 cup of pasta water.\n2. In a large skillet, heat olive oil over medium heat. Add pancetta and cook until crispy, about 5-7 minutes.\n3. In a bowl, whisk together eggs, Parmesan cheese, Pecorino Romano cheese, and black pepper.\n4. Drain spaghetti and add it to the skillet with the pancetta. Remove skillet from heat.\n5. Slowly pour the egg mixture over the spaghetti while stirring constantly. Add reserved pasta water, a tablespoon at a time, until the sauce is creamy and coats the pasta.\n6. Serve spaghetti carbonara with chopped fresh parsley.",
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "Kappakula Curry",
+        "ingredients": [
+          "1 lb beef sirloin, thinly sliced",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "8 oz mushrooms, sliced",
+          "1 cup beef broth",
+          "1 cup sour cream",
+          "2 tbsp flour",
+          "2 tbsp butter",
+          "1 tbsp olive oil",
+          "1 tsp salt",
+          "1/2 tsp black pepper",
+          "12 oz egg noodles"
+        ],
+        "cooking_method": "1. Cook egg noodles according to package instructions. Drain and set aside.\n2. In a large skillet, heat olive oil over medium-high heat. Add beef sirloin and cook until browned on all sides. Remove beef from skillet and set aside.\n3. Add butter to the skillet and melt over medium heat. Add onion and garlic and cook until softened, about 5 minutes.\n4. Add sliced mushrooms to the skillet and cook until tender, about 5-7 minutes.\n5. Sprinkle flour over the vegetables and stir to combine. Gradually stir in beef broth and bring to a simmer. Add cooked beef to the skillet and stir to combine.\n6. Simmer for 10-15 minutes, or until the sauce has thickened. Remove from heat and stir in sour cream.\n7. Serve beef stroganoff over egg noodles.",
+        "rating": 4.4
+      },
+      {
+        "recipe_name": "Fakukuku Ommunmd",
+        "ingredients": [
+          "1 whole chicken, about 4 lbs",
+          "1 lemon, sliced",
+          "2 tbsp unsalted butter, softened",
+          "2 tbsp chopped fresh herbs (such as thyme, rosemary, and parsley)",
+          "4 cloves garlic, minced",
+          "2 tsp salt",
+          "1 tsp black pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 425°F (220°C).\n2. In a small bowl, mix together softened butter, chopped herbs, minced garlic, salt, and black pepper.\n3. Rub the butter mixture all over the chicken, including under the skin and in the cavity.\n4. Place lemon slices inside the chicken cavity.\n5. Tie the legs together with kitchen twine and tuck the wings under the bird.\n6. Place the chicken on a roasting pan and roast for 1 hour and 15 minutes, until the internal temperature reaches 165°F (74°C).\n7. Let the chicken rest for 10 minutes before carving and serving.",
+        "rating": 4.4
+      }
+    ]
+  },
+
+  {
+    "id": 4,
+    "chef_picture": "https://images.unsplash.com/photo-1639149888905-fb39731f2e6c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+    "chef_name": "Jasakabira Iraboti",
+    "bio": "From cooking up family recipes passed down through generations to experimenting with new and innovative flavor combinations, I am a true culinary artist. With years of experience under my belt, I can create any dish to suit your needs.",
+    "banner_img": "https://images.unsplash.com/photo-1518291344630-4857135fb581?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
+    "years_of_experience": 15,
+    "number_of_recipes": 803,
+    "likes": 16000,
+    "recipes": [
+      {
+        "recipe_name": "Bulukulu Kababa",
+        "ingredients": [
+          "4 lb spaghetti",
+          "6 oz pancetta, diced",
+          "4 eggs",
+          "1/2 cup grated Parmesan cheese",
+          "1/2 cup grated Pecorino Romano cheese",
+          "1 tbsp olive oil",
+          "1 tsp black pepper",
+          "1/4 cup chopped fresh parsley"
+        ],
+        "cooking_method": "1. Cook spaghetti according to package instructions. Reserve 1 cup of pasta water.\n2. In a large skillet, heat olive oil over medium heat. Add pancetta and cook until crispy, about 5-7 minutes.\n3. In a bowl, whisk together eggs, Parmesan cheese, Pecorino Romano cheese, and black pepper.\n4. Drain spaghetti and add it to the skillet with the pancetta. Remove skillet from heat.\n5. Slowly pour the egg mixture over the spaghetti while stirring constantly. Add reserved pasta water, a tablespoon at a time, until the sauce is creamy and coats the pasta.\n6. Serve spaghetti carbonara with chopped fresh parsley.",
+        "rating": 4.3
+      },
+      {
+        "recipe_name": "Iraboti Malaba Curry",
+        "ingredients": [
+          "1 lb beef sirloin, thinly sliced",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "8 oz mushrooms, sliced",
+          "1 cup beef broth",
+          "1 cup sour cream",
+          "2 tbsp flour",
+          "2 tbsp butter",
+          "1 tbsp olive oil",
+          "1 tsp salt",
+          "1/2 tsp black pepper",
+          "12 oz egg noodles"
+        ],
+        "cooking_method": "1. Cook egg noodles according to package instructions. Drain and set aside.\n2. In a large skillet, heat olive oil over medium-high heat. Add beef sirloin and cook until browned on all sides. Remove beef from skillet and set aside.\n3. Add butter to the skillet and melt over medium heat. Add onion and garlic and cook until softened, about 5 minutes.\n4. Add sliced mushrooms to the skillet and cook until tender, about 5-7 minutes.\n5. Sprinkle flour over the vegetables and stir to combine. Gradually stir in beef broth and bring to a simmer. Add cooked beef to the skillet and stir to combine.\n6. Simmer for 10-15 minutes, or until the sauce has thickened. Remove from heat and stir in sour cream.\n7. Serve beef stroganoff over egg noodles.",
+        "rating": 4.4
+      },
+      {
+        "recipe_name": "Fakuroti Sudada",
+        "ingredients": [
+          "1 whole chicken, about 4 lbs",
+          "1 lemon, sliced",
+          "2 tbsp unsalted butter, softened",
+          "2 tbsp chopped fresh herbs (such as thyme, rosemary, and parsley)",
+          "4 cloves garlic, minced",
+          "2 tsp salt",
+          "1 tsp black pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 425°F (220°C).\n2. In a small bowl, mix together softened butter, chopped herbs, minced garlic, salt, and black pepper.\n3. Rub the butter mixture all over the chicken, including under the skin and in the cavity.\n4. Place lemon slices inside the chicken cavity.\n5. Tie the legs together with kitchen twine and tuck the wings under the bird.\n6. Place the chicken on a roasting pan and roast for 1 hour and 15 minutes, until the internal temperature reaches 165°F (74°C).\n7. Let the chicken rest for 10 minutes before carving and serving.",
+        "rating": 4.4
+      }
+    ]
+  },
+
+  {
+    "id": 5,
+    "chef_picture": "https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+    "chef_name": "Asfakula Bijjatie",
+    "bio": "I am a creative and experienced chef who loves to experiment with flavors and techniques to bring you unique and exciting dishes. Whether you are a meat lover or a vegetarian, I have something on the menu that will tantalize your taste buds.",
+    "banner_img": "https://images.unsplash.com/photo-1488992783499-418eb1f62d08?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1289&q=80",
+    "years_of_experience": 25,
+    "number_of_recipes": 403,
+    "likes": 12000,
+    "recipes": [
+      {
+        "recipe_name": "Tulubuli Raida",
+        "ingredients": [
+          "4 lb spaghetti",
+          "6 oz pancetta, diced",
+          "4 eggs",
+          "1/2 cup grated Parmesan cheese",
+          "1/2 cup grated Pecorino Romano cheese",
+          "1 tbsp olive oil",
+          "1 tsp black pepper",
+          "1/4 cup chopped fresh parsley"
+        ],
+        "cooking_method": "1. Cook spaghetti according to package instructions. Reserve 1 cup of pasta water.\n2. In a large skillet, heat olive oil over medium heat. Add pancetta and cook until crispy, about 5-7 minutes.\n3. In a bowl, whisk together eggs, Parmesan cheese, Pecorino Romano cheese, and black pepper.\n4. Drain spaghetti and add it to the skillet with the pancetta. Remove skillet from heat.\n5. Slowly pour the egg mixture over the spaghetti while stirring constantly. Add reserved pasta water, a tablespoon at a time, until the sauce is creamy and coats the pasta.\n6. Serve spaghetti carbonara with chopped fresh parsley.",
+        "rating": 4.3
+      },
+      {
+        "recipe_name": "Elituli Baida",
+        "ingredients": [
+          "1 lb beef sirloin, thinly sliced",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "8 oz mushrooms, sliced",
+          "1 cup beef broth",
+          "1 cup sour cream",
+          "2 tbsp flour",
+          "2 tbsp butter",
+          "1 tbsp olive oil",
+          "1 tsp salt",
+          "1/2 tsp black pepper",
+          "12 oz egg noodles"
+        ],
+        "cooking_method": "1. Cook egg noodles according to package instructions. Drain and set aside.\n2. In a large skillet, heat olive oil over medium-high heat. Add beef sirloin and cook until browned on all sides. Remove beef from skillet and set aside.\n3. Add butter to the skillet and melt over medium heat. Add onion and garlic and cook until softened, about 5 minutes.\n4. Add sliced mushrooms to the skillet and cook until tender, about 5-7 minutes.\n5. Sprinkle flour over the vegetables and stir to combine. Gradually stir in beef broth and bring to a simmer. Add cooked beef to the skillet and stir to combine.\n6. Simmer for 10-15 minutes, or until the sauce has thickened. Remove from heat and stir in sour cream.\n7. Serve beef stroganoff over egg noodles.",
+        "rating": 4.4
+      },
+      {
+        "recipe_name": "Kalumama Calaida",
+        "ingredients": [
+          "1 whole chicken, about 4 lbs",
+          "1 lemon, sliced",
+          "2 tbsp unsalted butter, softened",
+          "2 tbsp chopped fresh herbs (such as thyme, rosemary, and parsley)",
+          "4 cloves garlic, minced",
+          "2 tsp salt",
+          "1 tsp black pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 425°F (220°C).\n2. In a small bowl, mix together softened butter, chopped herbs, minced garlic, salt, and black pepper.\n3. Rub the butter mixture all over the chicken, including under the skin and in the cavity.\n4. Place lemon slices inside the chicken cavity.\n5. Tie the legs together with kitchen twine and tuck the wings under the bird.\n6. Place the chicken on a roasting pan and roast for 1 hour and 15 minutes, until the internal temperature reaches 165°F (74°C).\n7. Let the chicken rest for 10 minutes before carving and serving.",
+        "rating": 4.4
+      }
+    ]
+  },
+
+  {
+    "id": 6,
+    "chef_picture": "https://images.unsplash.com/photo-1506277886164-e25aa3f4ef7f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+    "chef_name": "Obabago Magogo",
+    "bio": "I am a seasoned culinary expert with over 20 years of experience in the kitchen. From classic comfort food to gourmet creations, I can whip up any dish to satisfy your taste buds.",
+    "banner_img": "https://images.unsplash.com/photo-1516824711718-9c1e683412ac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+    "years_of_experience": 25,
+    "number_of_recipes": 303,
+    "likes": 15000,
+    "recipes": [
+      {
+        "recipe_name": "Kilatula Omama",
+        "ingredients": [
+          "4 lb spaghetti",
+          "6 oz pancetta, diced",
+          "4 eggs",
+          "1/2 cup grated Parmesan cheese",
+          "1/2 cup grated Pecorino Romano cheese",
+          "1 tbsp olive oil",
+          "1 tsp black pepper",
+          "1/4 cup chopped fresh parsley"
+        ],
+        "cooking_method": "1. Cook spaghetti according to package instructions. Reserve 1 cup of pasta water.\n2. In a large skillet, heat olive oil over medium heat. Add pancetta and cook until crispy, about 5-7 minutes.\n3. In a bowl, whisk together eggs, Parmesan cheese, Pecorino Romano cheese, and black pepper.\n4. Drain spaghetti and add it to the skillet with the pancetta. Remove skillet from heat.\n5. Slowly pour the egg mixture over the spaghetti while stirring constantly. Add reserved pasta water, a tablespoon at a time, until the sauce is creamy and coats the pasta.\n6. Serve spaghetti carbonara with chopped fresh parsley.",
+        "rating": 4.3
+      },
+      {
+        "recipe_name": "Fakuruta Curry",
+        "ingredients": [
+          "1 lb beef sirloin, thinly sliced",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "8 oz mushrooms, sliced",
+          "1 cup beef broth",
+          "1 cup sour cream",
+          "2 tbsp flour",
+          "2 tbsp butter",
+          "1 tbsp olive oil",
+          "1 tsp salt",
+          "1/2 tsp black pepper",
+          "12 oz egg noodles"
+        ],
+        "cooking_method": "1. Cook egg noodles according to package instructions. Drain and set aside.\n2. In a large skillet, heat olive oil over medium-high heat. Add beef sirloin and cook until browned on all sides. Remove beef from skillet and set aside.\n3. Add butter to the skillet and melt over medium heat. Add onion and garlic and cook until softened, about 5 minutes.\n4. Add sliced mushrooms to the skillet and cook until tender, about 5-7 minutes.\n5. Sprinkle flour over the vegetables and stir to combine. Gradually stir in beef broth and bring to a simmer. Add cooked beef to the skillet and stir to combine.\n6. Simmer for 10-15 minutes, or until the sauce has thickened. Remove from heat and stir in sour cream.\n7. Serve beef stroganoff over egg noodles.",
+        "rating": 4.4
+      },
+      {
+        "recipe_name": "Ahiyada Chicken",
+        "ingredients": [
+          "1 whole chicken, about 4 lbs",
+          "1 lemon, sliced",
+          "2 tbsp unsalted butter, softened",
+          "2 tbsp chopped fresh herbs (such as thyme, rosemary, and parsley)",
+          "4 cloves garlic, minced",
+          "2 tsp salt",
+          "1 tsp black pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 425°F (220°C).\n2. In a small bowl, mix together softened butter, chopped herbs, minced garlic, salt, and black pepper.\n3. Rub the butter mixture all over the chicken, including under the skin and in the cavity.\n4. Place lemon slices inside the chicken cavity.\n5. Tie the legs together with kitchen twine and tuck the wings under the bird.\n6. Place the chicken on a roasting pan and roast for 1 hour and 15 minutes, until the internal temperature reaches 165°F (74°C).\n7. Let the chicken rest for 10 minutes before carving and serving.",
+        "rating": 4.4
+      }
+    ]
+  }
+]
