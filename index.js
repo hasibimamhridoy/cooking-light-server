@@ -11,11 +11,13 @@ app.get('/',(req,res)=>{
 app.get('/allChef',(req,res)=>{
     res.send(allChef)
 })
+
 app.get('/chef/:id',(req,res)=>{
     const id = req.params.id
     const findData = allChef.find(chef => chef.id == id)
     res.send(findData)
 })
+
 
 app.listen(port,()=>{
     console.log(`The server is running and port is: ${port}`);
